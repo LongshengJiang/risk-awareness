@@ -2,4 +2,6 @@
 The program is run in python 3.5 
 
 # Package structure
-|_`dijkstra.py`
+|_data
+`dijkstra.py`
+
