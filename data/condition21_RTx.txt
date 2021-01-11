@@ -1,0 +1,260 @@
+test 0: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:145/1161 
+Real found:139/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 1: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:139/1161 
+Real found:128/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 2: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:133/1161 
+Real found:126/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 3: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:126/1161 
+Real found:120/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 4: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:145/1161 
+Real found:136/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 5: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:148/1161 
+Real found:137/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 6: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:134/1161 
+Real found:126/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 7: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:137/1161 
+Real found:128/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 8: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:149/1161 
+Real found:138/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 9: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:141/1161 
+Real found:127/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 10: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:147/1161 
+Real found:136/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 11: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:137/1161 
+Real found:122/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 12: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:132/1161 
+Real found:119/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 13: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:148/1161 
+Real found:134/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 14: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:144/1161 
+Real found:137/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 15: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:143/1161 
+Real found:128/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 16: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:134/1161 
+Real found:123/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 17: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:142/1161 
+Real found:133/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 18: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:141/1161 
+Real found:124/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+
+test 19: 
+Decision model: RTx 
+Time limit: 200 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 200 
+Sensor model: p_o1_s1 = 0.9, p_o1_s0 = 0.4 
+Claimed found:134/1161 
+Real found:128/1161 
+Human utilization: 0 
+Time step: 200 
+Average length of waiting line: 0.0 
+

@@ -1,0 +1,260 @@
+test 0: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:467/1161 
+Real found:192/1161 
+Human utilization: 482 
+Time step: 1822 
+Average length of waiting line: 0.3893465129049973 
+
+test 1: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:480/1161 
+Real found:214/1161 
+Human utilization: 475 
+Time step: 1804 
+Average length of waiting line: 0.3843594009983361 
+
+test 2: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:428/1161 
+Real found:196/1161 
+Human utilization: 484 
+Time step: 1798 
+Average length of waiting line: 0.39232053422370616 
+
+test 3: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:449/1161 
+Real found:201/1161 
+Human utilization: 481 
+Time step: 1810 
+Average length of waiting line: 0.3969043670536208 
+
+test 4: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:492/1161 
+Real found:221/1161 
+Human utilization: 469 
+Time step: 1822 
+Average length of waiting line: 0.3833058758923668 
+
+test 5: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:472/1161 
+Real found:212/1161 
+Human utilization: 470 
+Time step: 1814 
+Average length of waiting line: 0.37175951461665746 
+
+test 6: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:471/1161 
+Real found:202/1161 
+Human utilization: 481 
+Time step: 1821 
+Average length of waiting line: 0.3879120879120879 
+
+test 7: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:489/1161 
+Real found:220/1161 
+Human utilization: 476 
+Time step: 1800 
+Average length of waiting line: 0.39466370205669815 
+
+test 8: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:462/1161 
+Real found:202/1161 
+Human utilization: 481 
+Time step: 1809 
+Average length of waiting line: 0.38827433628318586 
+
+test 9: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:517/1161 
+Real found:205/1161 
+Human utilization: 477 
+Time step: 1800 
+Average length of waiting line: 0.38465814341300725 
+
+test 10: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:505/1161 
+Real found:211/1161 
+Human utilization: 481 
+Time step: 1808 
+Average length of waiting line: 0.3973436635307139 
+
+test 11: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:487/1161 
+Real found:221/1161 
+Human utilization: 483 
+Time step: 1799 
+Average length of waiting line: 0.3932146829810901 
+
+test 12: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:470/1161 
+Real found:219/1161 
+Human utilization: 495 
+Time step: 1807 
+Average length of waiting line: 0.4014396456256921 
+
+test 13: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:472/1161 
+Real found:209/1161 
+Human utilization: 496 
+Time step: 1825 
+Average length of waiting line: 0.4024122807017544 
+
+test 14: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:451/1161 
+Real found:201/1161 
+Human utilization: 482 
+Time step: 1809 
+Average length of waiting line: 0.3844026548672566 
+
+test 15: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:455/1161 
+Real found:213/1161 
+Human utilization: 471 
+Time step: 1814 
+Average length of waiting line: 0.3800330943188086 
+
+test 16: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:465/1161 
+Real found:185/1161 
+Human utilization: 482 
+Time step: 1819 
+Average length of waiting line: 0.3943894389438944 
+
+test 17: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:454/1161 
+Real found:179/1161 
+Human utilization: 483 
+Time step: 1793 
+Average length of waiting line: 0.3984375 
+
+test 18: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:430/1161 
+Real found:200/1161 
+Human utilization: 490 
+Time step: 1797 
+Average length of waiting line: 0.39476614699331847 
+
+test 19: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -3 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.2, p_o1_s0 = 0.05 
+Claimed found:512/1161 
+Real found:221/1161 
+Human utilization: 496 
+Time step: 1809 
+Average length of waiting line: 0.3971238938053097 
+

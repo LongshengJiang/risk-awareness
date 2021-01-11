@@ -1,0 +1,13 @@
+test 0: 
+Decision model: RTx 
+Time limit: 18000 
+Human task duration: 2 
+Wrong detection cost: -20 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.4, p_o1_s0 = 0.1 
+Claimed found:640/1161 
+Real found:625/1161 
+Human utilization: 1912 
+Time step: 4044 
+Average length of waiting line: 2.635666584219639 
+

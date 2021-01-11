@@ -1,0 +1,13 @@
+test 0: 
+Decision model: EV 
+Time limit: 18000 
+Human task duration: 5 
+Wrong detection cost: -100 
+Time limit: 18000 
+Sensor model: p_o1_s1 = 0.4, p_o1_s0 = 0.1 
+Claimed found:482/1161 
+Real found:463/1161 
+Human utilization: 498 
+Time step: 3079 
+Average length of waiting line: 0.7391163092917479 
+
