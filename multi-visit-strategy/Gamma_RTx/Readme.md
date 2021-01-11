@@ -1,6 +1,6 @@
 ### Requirement
 - The program is run in python 3.5 
-- The RTx decision-making model uses \Gamma shaped probability weighting function
+- The RTx decision-making model uses $\Gamma$ shaped probability weighting function
 - The detection uses multi-visit strategy with the confidence threshold being 0.9.
 
 ### Package structure
